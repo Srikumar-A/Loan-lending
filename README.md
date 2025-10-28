@@ -88,4 +88,4 @@ Run the notebook [eda.ipynb](eda.ipynb) step by step to reproduce the analysis a
 ---
 
 **Author:**  
-*Your Name
+Srikumar Arivalagan
